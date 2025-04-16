@@ -40,3 +40,7 @@ The machine state information can't really be optimized for the data transfer. T
 ## Hardware
 - *Driver* - GCA901
 - *Encoder* - EC11
+
+## Repo Contents
+- Datasheets and examples given to me by the AliExpress display manufacturer
+- A super simple platformIO project to get started with LVGL. It's compiling, but not working at the moment. Good for reference, though.
